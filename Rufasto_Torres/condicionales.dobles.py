@@ -166,3 +166,26 @@ if(tiempo_trabajo>3):
     print(trabajador, ", recibira liquidacion ")
 else:
     print(trabajador, ", no procede a la liquidacion")
+
+
+#Ejercicio09
+#Programa de comprador compulsivo
+import os
+#Declaracion de variables
+cliente,total_de_productos,monto_pagar="",0,0.0
+
+#INPUT via OS
+cliente=os.sys.argv[1]
+total_de_productos=int(os.sys.argv[2])
+monto_pagar=float(os.sys.argv[3])
+
+#PROCESING
+#Si el monto pagar supera a 200.00
+#mostrar "gano un canje de 30 soles"
+#Caso contrario mostrar "gracias por su compra"
+if(monto_pagar>200.00):
+    print(cliente, ", gano un canje de 30 soles ")
+else:
+    print(cliente, ", gracias por su compra ")
+
+

@@ -71,3 +71,9 @@ python Rufasto_Torres/condicionales.dobles.py "nikol" "el paraiso" 5
 python Rufasto_Torres/condicionales.dobles.py "carmen" "rey" 8
 python Rufasto_Torres/condicionales.dobles.py "karina" "cerro prieto" 2
 
+python Rufasto_Torres/condicionales.dobles.py "juana" 26 300.00
+python Rufasto_Torres/condicionales.dobles.py "ivanna" 12 128.50
+python Rufasto_Torres/condicionales.dobles.py "isabel" 8 230.00
+
+
+
