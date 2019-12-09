@@ -30,6 +30,9 @@ python Rufasto_Torres/condicionales.simples.py "milagros" "beta" 5
 python Rufasto_Torres/condicionales.simples.py "juana" "boon" 4
 python Rufasto_Torres/condicionales.simples.py "arturo" "library" 5
 
+python Rufasto_Torres/condicionales.simples.py "segundo rufasto" 17 356.50
+python Rufasto_Torres/condicionales.simples.py "diana torres" 26 324.10
+python Rufasto_Torres/condicionales.simples.py "jorge manay" 30 399.90
 
 
 
