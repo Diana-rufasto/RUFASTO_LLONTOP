@@ -75,5 +75,10 @@ python Rufasto_Torres/condicionales.dobles.py "juana" 26 300.00
 python Rufasto_Torres/condicionales.dobles.py "ivanna" 12 128.50
 python Rufasto_Torres/condicionales.dobles.py "isabel" 8 230.00
 
+python Rufasto_Torres/condicionales.dobles.py "david" 7.30 60
+python Rufasto_Torres/condicionales.dobles.py "santos" 8.10 32
+python Rufasto_Torres/condicionales.dobles.py "antony" 10.30 46
+
+
 
 
