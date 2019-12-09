@@ -80,5 +80,10 @@ python Rufasto_Torres/condicionales.dobles.py "santos" 8.10 32
 python Rufasto_Torres/condicionales.dobles.py "antony" 10.30 46
 
 
+python Rufasto_Torres/condicionales.multiples.py "saul" "logica" 14 16 18
+python Rufasto_Torres/condicionales.multiples.py "pedro" "lenguaje" 14 19 14
+python Rufasto_Torres/condicionales.multiples.py "auria" "calculo" 20 19 20
+
+
 
 
