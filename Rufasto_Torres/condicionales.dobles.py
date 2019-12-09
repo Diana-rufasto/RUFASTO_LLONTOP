@@ -63,4 +63,26 @@ else:
     print(paciente, ", bien tiene imc normal ")
 
 
+#Ejercicio04
+#Programa con imc normal
+import os
+#Declaracion de variables
+paciente,peso,talla,total="",0.0,0.0,0.0
+
+#INPUT via OS
+paciente=os.sys.argv[1]
+peso=float(os.sys.argv[2])
+talla=float(os.sys.argv[3])
+total=float(os.sys.argv[4])
+
+#PROCESING
+#Si el total es mayor a 20.00
+#mostrar "tiene peso normal"
+#Caso contrario mostrar "tiene que ir al medico"
+if(total>20.00):
+    print(paciente, ", tiene peso normal ")
+else:
+    print(paciente, ", tiene que ir al medico ")
+
+
 
