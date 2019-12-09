@@ -47,6 +47,8 @@ python Rufasto_Torres/condicionales.simples.py "claudia" 56.50 1.58 20.00
 python Rufasto_Torres/condicionales.simples.py "ernesto" 66.40 1.65 27.44
 python Rufasto_Torres/condicionales.simples.py "humberto" 55.34 1.53 23.45
 
-
+python Rufasto_Torres/condicionales.simples.py "katy" 43.54 1.45 18.23
+python Rufasto_Torres/condicionales.simples.py "yolanda" 50.20 1.30 20.40
+python Rufasto_Torres/condicionales.simples.py "alex" 40.26 1.53 15.34
 
 
