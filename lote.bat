@@ -18,6 +18,9 @@ python Rufasto_Torres/condicionales.simples.py "laura" "pedro ruiz gallo" 18
 python Rufasto_Torres/condicionales.simples.py "juan" "alas peruanas" 17
 python Rufasto_Torres/condicionales.simples.py "ena" "cesar vallejo" 19
 
+python Rufasto_Torres/condicionales.simples.py "sasha" "gandules" 6
+python Rufasto_Torres/condicionales.simples.py "angel" "tropical" 7
+python Rufasto_Torres/condicionales.simples.py "karen" "don benny" 6
 
 
 
