@@ -22,6 +22,10 @@ python Rufasto_Torres/condicionales.simples.py "sasha" "gandules" 6
 python Rufasto_Torres/condicionales.simples.py "angel" "tropical" 7
 python Rufasto_Torres/condicionales.simples.py "karen" "don benny" 6
 
+python Rufasto_Torres/condicionales.simples.py "marcela" "avon" 225.50
+python Rufasto_Torres/condicionales.simples.py "genesis" "natura" 321.90
+python Rufasto_Torres/condicionales.simples.py "fiorella" "belcorp" 248.20
+
 
 
 
