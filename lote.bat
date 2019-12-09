@@ -55,4 +55,6 @@ python Rufasto_Torres/condicionales.dobles.py "alonso" 45.35 1.54 22.45
 python Rufasto_Torres/condicionales.dobles.py "alejandra" 46.45 1.58 18.45
 python Rufasto_Torres/condicionales.dobles.py "davor" 50.35 1.56 21.45
 
-
+python Rufasto_Torres/condicionales.dobles.py "yuliana" "pedro ruiz gallo" 19
+python Rufasto_Torres/condicionales.dobles.py "kevin" "udch" 13
+python Rufasto_Torres/condicionales.dobles.py "cristhian" "utp" 17
