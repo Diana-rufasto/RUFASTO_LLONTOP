@@ -26,6 +26,9 @@ python Rufasto_Torres/condicionales.simples.py "marcela" "avon" 225.50
 python Rufasto_Torres/condicionales.simples.py "genesis" "natura" 321.90
 python Rufasto_Torres/condicionales.simples.py "fiorella" "belcorp" 248.20
 
+python Rufasto_Torres/condicionales.simples.py "milagros" "beta" 5
+python Rufasto_Torres/condicionales.simples.py "juana" "boon" 4
+python Rufasto_Torres/condicionales.simples.py "arturo" "library" 5
 
 
 
